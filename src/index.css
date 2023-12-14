@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  background: #000;
+  /* background: #ef4b22; */
+  /* background: #c0beb4; */
+  /* cursor: none; */
+}
+
+.cursor{
+  top: 0;
+  left: 0;
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 2px solid white;
+  z-index: 335000 !important;
+  transition: all .2s;
+  transform: translate(-50%, -50%);
+}
+

@@ -1,0 +1,243 @@
+{
+    "children": [
+        {
+            "name": "Semiconductors",
+            "responseCount": 400,
+            "children": [
+                {
+                    "name": "Semiconductor Manufacturers",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "name": "Fabless",
+                            "responseCount": 400,
+                            "Name": "Fabless",
+                            "oName": "Fabless"
+                        },
+                        {
+                            "name": "Foundry",
+                            "responseCount": 400,
+                            "Name": "Foundry",
+                            "oName": "Foundry"
+                        }
+                    ],
+                    "Name": "Semiconductor Manufacturers",
+                    "oName": "Semiconductor Manufacturers"
+                },
+                {
+                    "name": "Semiconductor Services",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "name": "OSAT and Packaging",
+                            "responseCount": 400,
+                            "Name": "OSAT and Packaging",
+                            "oName": "OSAT and Packaging"
+                        }
+                    ],
+                    "Name": "Semiconductor Services",
+                    "oName": "Semiconductor Services"
+                }
+            ],
+            "hasVC": true,
+            "Name": "Semiconductors",
+            "oName": "Semiconductors"
+        },
+        {
+            "name": "Telecommunications",
+            "responseCount": 400,
+            "children": [
+                {
+                    "name": "Telecom Service Providers",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "MNOs",
+                                    "responseCount": 400,
+                                    "Name": "MNOs",
+                                    "oName": "MNOs"
+                                }
+                            ],
+                            "name": "Mobile Network Operators",
+                            "responseCount": 400,
+                            "Name": "Mobile Network Operators",
+                            "oName": "Mobile Network Operators"
+                        }
+                    ],
+                    "Name": "Telecom Service Providers",
+                    "oName": "Telecom Service Providers"
+                }
+            ],
+            "hasVC": true,
+            "Name": "Telecommunications",
+            "oName": "Telecommunications"
+        },
+        {
+            "name": "Life Sciences",
+            "responseCount": 400,
+            "children": [
+                {
+                    "name": "Pharmaceuticals",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "APIs (Active Pharmaceutical Ingredients)",
+                                    "responseCount": 400,
+                                    "Name": "APIs (Active Pharmaceutical Ingredients)",
+                                    "oName": "APIs (Active Pharmaceutical Ingredients)"
+                                }
+                            ],
+                            "name": "Pharma Raw Materials",
+                            "responseCount": 400,
+                            "Name": "Pharma Raw Materials",
+                            "oName": "Pharma Raw Materials"
+                        }
+                    ],
+                    "Name": "Pharmaceuticals",
+                    "oName": "Pharmaceuticals"
+                }
+            ],
+            "hasVC": true,
+            "Name": "Life Sciences",
+            "oName": "Life Sciences"
+        },
+        {
+            "name": "Information Technology",
+            "responseCount": 400,
+            "children": [
+                {
+                    "name": "IT Hardware",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "Computers and Devices",
+                            "responseCount": 400,
+                            "Name": "Computers and Devices",
+                            "oName": "Computers and Devices"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Data Centers",
+                                    "responseCount": 400,
+                                    "Name": "Data Centers",
+                                    "oName": "Data Centers"
+                                }
+                            ],
+                            "name": "Data Centers, Servers, Network",
+                            "responseCount": 400,
+                            "Name": "Data Centers, Servers, Network",
+                            "oName": "Data Centers, Servers, Network"
+                        }
+                    ],
+                    "Name": "IT Hardware",
+                    "oName": "IT Hardware"
+                },
+                {
+                    "name": "Cloud Computing and Software",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "Cloud Communications",
+                            "responseCount": 400,
+                            "Name": "Cloud Communications",
+                            "oName": "Cloud Communications"
+                        }
+                    ],
+                    "Name": "Cloud Computing and Software",
+                    "oName": "Cloud Computing and Software"
+                },
+                {
+                    "name": "Emerging Technologies",
+                    "responseCount": 400,
+                    "children": [],
+                    "Name": "Emerging Technologies",
+                    "oName": "Emerging Technologies"
+                },
+                {
+                    "name": "IT Services",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "Implementation Services",
+                            "responseCount": 400,
+                            "Name": "Implementation Services",
+                            "oName": "Implementation Services"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Infrastructure Management Services",
+                                    "responseCount": 400,
+                                    "Name": "Infrastructure Management Services",
+                                    "oName": "Infrastructure Management Services"
+                                }
+                            ],
+                            "name": "Managed IT Services",
+                            "responseCount": 400,
+                            "Name": "Managed IT Services",
+                            "oName": "Managed IT Services"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Telecom",
+                                    "responseCount": 400,
+                                    "Name": "Telecom",
+                                    "oName": "Telecom"
+                                }
+                            ],
+                            "name": "Domain Specific Services",
+                            "responseCount": 400,
+                            "Name": "Domain Specific Services",
+                            "oName": "Domain Specific Services"
+                        }
+                    ],
+                    "Name": "IT Services",
+                    "oName": "IT Services"
+                }
+            ],
+            "hasVC": true,
+            "Name": "Information Technology",
+            "oName": "Information Technology"
+        },
+        {
+            "name": "Engineering and Capital Goods",
+            "responseCount": 400,
+            "children": [
+                {
+                    "name": "Construction and Engineering",
+                    "responseCount": 400,
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "EPCs",
+                            "responseCount": 400,
+                            "Name": "EPCs",
+                            "oName": "EPCs"
+                        }
+                    ],
+                    "Name": "Construction and Engineering",
+                    "oName": "Construction and Engineering"
+                },
+                {
+                    "name": "Electrical Goods",
+                    "responseCount": 400,
+                    "children": [],
+                    "Name": "Electrical Goods",
+                    "oName": "Electrical Goods"
+                }
+            ],
+            "hasVC": true,
+            "Name": "Engineering and Capital Goods",
+            "oName": "Engineering and Capital Goods"
+        }
+    ]
+}

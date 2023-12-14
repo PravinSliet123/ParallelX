@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.body{
+    background-color: #eab64f;
+    height: 100vh;
+    position: relative;
+}
+
+.heading{
+    color: black;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.content{
+    border: 5px solid black;
+    border-radius: 100px;
+    width: 50vw;
+    padding: auto;
+    position: absolute;
+    top:25%;
+    left: 25%;
+    
+}
+
+.display{
+    color: black;
+    font-size: 50px;
+}
+
+.btn h3{
+    padding: 20px 10px;
+    display: inline-block;
+    border: 1px solid black;
+    color: black;
+    width: 30%;
+    margin: auto;
+    margin: 30px;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
